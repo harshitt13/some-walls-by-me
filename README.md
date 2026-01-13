@@ -1,4 +1,4 @@
-# Walls by Harshitt13
+# Wallpapers
 
 A collection of beautiful wallpapers created by Harshitt13. All images are displayed below in a 4-column grid layout.
 
