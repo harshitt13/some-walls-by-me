@@ -1,17 +1,47 @@
-# Wallpapers
+# Walls by harshitt13
 
-A collection of beautiful wallpapers created by Harshitt13. All images are displayed below in a 4-column grid layout.
+A collection of beautiful wallpapers created by harshitt13.
 
-## Gallery
+## 🖼️ Image Gallery (4-Column Matrix)
+*Displaying primary previews for the collection.*
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![Wall 1 JPG](wall%20by%20harshitt13%20(1).jpg) | ![Wall 1 PNG](wall%20by%20harshitt13%20(1).png) | ![Wall 2 JPG](wall%20by%20harshitt13%20(2).jpg) | ![Wall 2 PNG](wall%20by%20harshitt13%20(2).png) |
-| ![Wall 3 JPG](wall%20by%20harshitt13%20(3).jpg) | ![Wall 3 PNG](wall%20by%20harshitt13%20(3).png) | ![Wall 4 JPG](wall%20by%20harshitt13%20(4).jpg) | ![Wall 4 PNG](wall%20by%20harshitt13%20(4).png) |
-| ![Wall 5 JPG](wall%20by%20harshitt13%20(5).jpg) | ![Wall 5 PNG](wall%20by%20harshitt13%20(5).png) | ![Wall 6 JPG](wall%20by%20harshitt13%20(6).jpg) | ![Wall 6 PNG](wall%20by%20harshitt13%20(6).png) |
-| ![Wall 7 JPG](wall%20by%20harshitt13%20(7).jpg) | ![Wall 7 PNG](wall%20by%20harshitt13%20(7).png) | ![Wall 8 JPG](wall%20by%20harshitt13%20(8).jpg) | ![Wall 8 PNG](wall%20by%20harshitt13%20(8).png) |
-| ![Wall 9 JPG](wall%20by%20harshitt13%20(9).jpg) | ![Wall 9 PNG](wall%20by%20harshitt13%20(9).png) | ![Wall 10 JPG](wall%20by%20harshitt13%20(10).jpg) | ![Wall 10 PNG](wall%20by%20harshitt13%20(10).png) |
-| ![Wall 11 JPG](wall%20by%20harshitt13%20(11).jpg) | ![Wall 11 PNG](wall%20by%20harshitt13%20(11).png) | ![Wall 12 JPG](wall%20by%20harshitt13%20(12).jpg) | ![Wall 12 PNG](wall%20by%20harshitt13%20(12).png) |
-| ![Wall 13 JPG](wall%20by%20harshitt13%20(13).jpg) | ![Wall 14 JPG](wall%20by%20harshitt13%20(14).jpg) | ![Wall 15 JPG](wall%20by%20harshitt13%20(15).jpg) | ![Wall 16 JPG](wall%20by%20harshitt13%20(16).jpg) |
-| ![Wall 17 JPG](wall%20by%20harshitt13%20(17).jpg) | ![Wall 18 JPG](wall%20by%20harshitt13%20(18).jpg) | ![Wall 19 JPG](wall%20by%20harshitt13%20(19).jpg) | ![Wall 20 JPG](wall%20by%20harshitt13%20(20).jpg) |
-| ![Wall 21 JPG](wall%20by%20harshitt13%20(21).jpg) | | | |
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%"><img src="wall by harshitt13 (1).png" alt="Wall 1"/><br/><sub>Wall 1 (PNG)</sub></td>
+      <td width="25%"><img src="wall by harshitt13 (2).png" alt="Wall 2"/><br/><sub>Wall 2 (PNG)</sub></td>
+      <td width="25%"><img src="wall by harshitt13 (3).png" alt="Wall 3"/><br/><sub>Wall 3 (PNG)</sub></td>
+      <td width="25%"><img src="wall by harshitt13 (4).png" alt="Wall 4"/><br/><sub>Wall 4 (PNG)</sub></td>
+    </tr>
+    <tr>
+      <td><img src="wall by harshitt13 (5).png" alt="Wall 5"/><br/><sub>Wall 5 (PNG)</sub></td>
+      <td><img src="wall by harshitt13 (6).png" alt="Wall 6"/><br/><sub>Wall 6 (PNG)</sub></td>
+      <td><img src="wall by harshitt13 (7).png" alt="Wall 7"/><br/><sub>Wall 7 (PNG)</sub></td>
+      <td><img src="wall by harshitt13 (8).png" alt="Wall 8"/><br/><sub>Wall 8 (PNG)</sub></td>
+    </tr>
+    <tr>
+      <td><img src="wall by harshitt13 (9).png" alt="Wall 9"/><br/><sub>Wall 9 (PNG)</sub></td>
+      <td><img src="wall by harshitt13 (10).png" alt="Wall 10"/><br/><sub>Wall 10 (PNG)</sub></td>
+      <td><img src="wall by harshitt13 (11).png" alt="Wall 11"/><br/><sub>Wall 11 (PNG)</sub></td>
+      <td><img src="wall by harshitt13 (12).png" alt="Wall 12"/><br/><sub>Wall 12 (PNG)</sub></td>
+    </tr>
+    <tr>
+      <td><img src="wall by harshitt13 (13).png" alt="Wall 13"/><br/><sub>Wall 13 (PNG)</sub></td>
+      <td><img src="wall by harshitt13 (14).jpg" alt="Wall 14"/><br/><sub>Wall 14 (JPG)</sub></td>
+      <td><img src="wall by harshitt13 (15).jpg" alt="Wall 15"/><br/><sub>Wall 15 (JPG)</sub></td>
+      <td><img src="wall by harshitt13 (16).jpg" alt="Wall 16"/><br/><sub>Wall 16 (JPG)</sub></td>
+    </tr>
+    <tr>
+      <td><img src="wall by harshitt13 (17).jpg" alt="Wall 17"/><br/><sub>Wall 17 (JPG)</sub></td>
+      <td><img src="wall by harshitt13 (18).jpg" alt="Wall 18"/><br/><sub>Wall 18 (JPG)</sub></td>
+      <td><img src="wall by harshitt13 (19).jpg" alt="Wall 19"/><br/><sub>Wall 19 (JPG)</sub></td>
+      <td><img src="wall by harshitt13 (20).jpg" alt="Wall 20"/><br/><sub>Wall 20 (JPG)</sub></td>
+    </tr>
+    <tr>
+      <td><img src="wall by harshitt13 (21).jpg" alt="Wall 21"/><br/><sub>Wall 21 (JPG)</sub></td>
+      <td><img src="wall by harshitt13 (22).jpg" alt="Wall 22"/><br/><sub>Wall 22 (JPG)</sub></td>
+      <td><img src="wall by harshitt13 (23).jpg" alt="Wall 23"/><br/></td>
+      <td>-</td>
+    </tr>
+  </table>
+</div>
