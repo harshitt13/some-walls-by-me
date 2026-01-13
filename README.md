@@ -3,7 +3,8 @@
 A collection of beautiful wallpapers created by harshitt13.
 
 ## 🖼️ Image Gallery (4-Column Matrix)
-*Displaying primary previews for the collection.*
+
+_Displaying primary previews for the collection._
 
 <div align="center">
   <table>
