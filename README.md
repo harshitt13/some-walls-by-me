@@ -1,8 +1,8 @@
 # Walls by harshitt13
 
-A collection of beautiful wallpapers created by harshitt13.
+A collection of wallpapers by harshitt13.
 
-## 🖼️ Image Gallery (4-Column Matrix)
+## 🖼️ Image Gallery
 
 _Displaying primary previews for the collection._
 
